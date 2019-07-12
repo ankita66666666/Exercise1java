@@ -3,7 +3,7 @@ package com.stackroute.pe1;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Integer {
+public class IntegerChecker {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter numbers (enter any character to stop reading): ");

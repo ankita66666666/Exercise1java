@@ -2,7 +2,7 @@ package com.stackroute.pe1;
 
 import java.util.Scanner;
 
-public class Stringrepeat {
+public class RepeatString {
     public String repeat(String input, int number) {
         StringBuilder output = new StringBuilder(input);
         /*Take number from user*/

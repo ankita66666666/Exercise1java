@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Sorting {
+public class SortAndAddDigits {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter number: ");

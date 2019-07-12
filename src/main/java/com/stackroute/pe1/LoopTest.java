@@ -1,8 +1,8 @@
 package com.stackroute.pe1;
 
-import java.util.Scanner;
 
-public class Loop {
+
+public class LoopTest {
     public String repeat(int number) {
         StringBuilder output = new StringBuilder();
         /*Take number from user*/
