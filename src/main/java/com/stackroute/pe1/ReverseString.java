@@ -4,7 +4,7 @@ package com.stackroute.pe1;
 import java.util.Scanner;
 
 
-public class Reversestring {
+public class ReverseString {
     public String stringReverse(String input) {
         Scanner s = new Scanner(System.in);
         /*Convert the given string into Char array*/
